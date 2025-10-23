@@ -64,7 +64,7 @@ function App() {
                 <ProjectCard img="/Weather.png" projectName="Weather App (Level 2 - API) " projectDescription="Mateo WeatherAPI utilized to create a live weather app for multiple cities." projectLink="https://tyquincia-oby.github.io/my-weather/" buttonName="Check The Weather" />
             </div>
             <div className="column">
-                <PokemonCard img="/Pokemon.png" projectName="Pokemon Resume (Level 3 - React Components)" projectDescription=" React Component utilization with props and children to implement." />
+                <ProjectCard img="/Pokemon.png" projectName="Pokemon Resume (Level 3 - React Components)" projectDescription=" React Component utilization with props and children to implement." />
             </div>
             <div className="column">
                 <ProjectCard img="/ChatBot.png" projectName="ChatBot (Level 2 - AI)" projectDescription="Uitilizing Huggingface AI Models. we created an operable ChatBot. I used MetaLlama and Deepseek models for my project." projectLink="https://tyquincia-oby.github.io/gen-ai-demo/" buttonName="ChatBot" />
